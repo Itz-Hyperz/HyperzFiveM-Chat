@@ -11,4 +11,4 @@ Documentation is [here](https://docs.hyperz.dev/hyperzfivem-chat)
 ### Credits:
 - Programming by [cfx.re team](https://fivem.net)
 - Main CSS Changes by [Hyperz](https://hyperz.dev/github)
-- Showcased in [Hyperz Base](https://github.com/itz-hyperz/hyperzfivem-base)
+- Included in [Hyperz Base](https://github.com/itz-hyperz/hyperzfivem-base)
